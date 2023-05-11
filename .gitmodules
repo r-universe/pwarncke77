@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ResIN"]
+	path = ResIN
+	url = https://github.com/pwarncke77/resin
+	shallow = true
+	registered = true
